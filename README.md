@@ -3,9 +3,13 @@
 ## 📌 Intern Details
 
 **Intern ID:** CITS2068
+
 **Full Name:** Shanmitha
+
 **Duration:** 4 Weeks
+
 **Project Name:** Portfolio Website
+
 **Project Scope:** Develop a personal portfolio website to showcase academic background, technical skills, projects, internship experience, and contact information through a responsive web interface.
 
 ---
